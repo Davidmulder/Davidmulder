@@ -1,6 +1,6 @@
 <h2> Ola sou desenvolvedor e Analista de sistemas !</h2>
 
-<h3> Nos últimos anos enfrentei ambientes desafiadores profissionalmente, como a coordenação de um projeto na cidade Belém, além de reuniões periódicas com gerentes e SEO da companhia na qual trabalho, onde pude tratar de estratégias de negócios. Na metodologia SCRUM e AGIL</h3>
+<h3> Nos últimos anos enfrentei ambientes desafiadores profissionalmente, como a coordenação de um projeto na cidade Belém, além de reuniões periódicas com gerentes e SEO da companhia na qual trabalho, onde participei de estratégias de negócios. Na metodologia SCRUM e AGIL</h3>
 <h4> Tenho formação em Analista de sistemas pela Universidade da Unama  e  também  tenho formação em Administração de empresas pela Faculdade Fibra todos em Belém.   </h4>
 
 
