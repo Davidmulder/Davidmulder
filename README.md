@@ -1,7 +1,8 @@
 <h2> Ola sou desenvolvedor e Analista de sistemas !</h2>
 
-<h3> Nos últimos anos enfrentei ambientes desafiadores profissionalmente, como a coordenação de um projeto na cidade Belém, além de reuniões periódicas com gerentes e SEO da companhia na qual trabalho, onde participei de estratégias de negócios. Na metodologia SCRUM e AGIL</h3>
-<h4> Tenho formação em Analista de sistemas pela Universidade da Unama  e  também  tenho formação em Administração de empresas pela Faculdade Fibra todos em Belém.   </h4>
+<h3> Nos últimos anos enfrentei ambientes desafiadores profissionalmente, como a coordenação de  projetos na cidade Belém, além de reuniões periódicas com gerentes e SEO da companhia na qual trabalho, onde participei de estratégias de negócios. Na metodologia SCRUM e AGIL</h3>
+<h4> Tenho formação em Analista de sistemas pela Universidade da Unama  e  também  tenho formação em Administração de empresas pela Faculdade Fibra .   </h4>
+<h4> Meu Objetivo é trabalha em ambientes profissionais e desafiadores sempre pensando na evolução profissional .   </h4>
 
 
 <div align="center">
@@ -12,9 +13,21 @@
 <h5>Languages and Tools:</h5>
 <div style="display: inline_block">
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
+ 
+
+  </div>
+  <h5>Framework:</h5> 
+  <div style="display: inline_block">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+
+    
+    
   </div>
   
   <h5>DBA:</h5>
