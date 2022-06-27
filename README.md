@@ -8,7 +8,11 @@
 <div align="center">
   <a href="https://github.com/Davidmulder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidmulder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidmulder&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davidmulder&theme=dark"/>
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidmulder&layout=compact&langs_count=10&theme=dark"/>
+   <img align="center" height="180em" src="https://github-profile-trophy.vercel.app/?username=Davidmulder&theme=darkhub&column=3&margin-w=15&margin-h=15"/>
+
+
 </div>
 <h5>Languages and Tools:</h5>
 <div style="display: inline_block">
