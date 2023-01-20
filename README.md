@@ -15,6 +15,9 @@
     
  <div align="left">  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davidmulder&theme=dark"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidmulder&langs_count=10&layout=compact&theme=dark"/> 
+   
+  
  </div> 
 
     
