@@ -1,8 +1,8 @@
 <h2> Ola sou desenvolvedor e Analista de sistemas !</h2>
 
-<h3> Nos últimos anos enfrentei ambientes desafiadores profissionalmente, como a coordenação de  projetos na cidade Belém, além de reuniões periódicas com gerentes e SEO da companhia na qual trabalho, onde participei de estratégias de negócios. Na metodologia SCRUM e AGIL</h3>
-<h4> Tenho formação em Analista de sistemas pela Universidade da Unama  e  também  tenho formação em Administração de empresas pela Faculdade Fibra .   </h4>
-<h4> Meu Objetivo é trabalha em ambientes profissionais e desafiadores sempre pensando na evolução profissional .   </h4>
+<h3> Sou desenvolvedor , analista de sistemas e empreendedor ha mais de 14 anos com vasta experiência na area Desenvolvimento de projetos para WEB e gerenciamentos de equipe, desenvolvi bons resultados em projetos em Belém do Pará, comunicação assertiva, bom desempenho no trabalho em equipe, além de possuir fortes habilidades de negociação e gestão de conflitos, pois tenho formação em administração de empresas.</h3>
+<h4> Atualmente moro em Santa Catarina e atuo na area de Business Inteligence, com ferramentas como Power BI, Power Query, Excel entre outras, com foco em obter insights e resolver problemas através de transformações, consultas e análise exploratória de dados, gerando métricas e indicadores de desempenho que auxilia nas tomadas de decisão de forma assertiva e estratégica.  </h4>
+<h4> Considero a Determinação, Proatividade, e adoro desafios os elementos essenciais para se alcançar grandes marcos na vida profissional e pessoal.  </h4>
 
 
 <div align="center">
