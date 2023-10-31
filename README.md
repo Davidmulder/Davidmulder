@@ -39,6 +39,8 @@
  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="center" height="90" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" >
+<img align="center" height="60" src="https://seeklogo.com/images/G/google-looker-logo-C8DD467B30-seeklogo.com.png" >
+
     
     
   </div>
