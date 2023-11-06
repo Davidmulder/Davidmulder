@@ -38,13 +38,19 @@
    <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img align="center" height="90" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" >
-<img align="center" height="60" src="https://seeklogo.com/images/G/google-looker-logo-C8DD467B30-seeklogo.com.png" >
+
 
     
     
   </div>
-  
+
+   <h5>Ciencia de Dados:</h5>
+   <div style="display: inline_block">
+   <img align="center" height="60" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" >
+   <img align="center" height="60" src="https://seeklogo.com/images/G/google-looker-logo-C8DD467B30-seeklogo.com.png" >
+     
+  </div>
+  <br>
   <h5>DBA:</h5>
 <div style="display: inline_block">
 <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
@@ -52,7 +58,7 @@
 <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
 </div>
- 
+ <br>
  <h5> Contatos </h5>
  <div>
   <a href="https://www.facebook.com/profile.php?id=100006550989022" target="_blank">
